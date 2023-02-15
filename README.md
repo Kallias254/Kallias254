@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kallias254
 - 👀 I’m interested in web technologies.
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on anything web.
 - 📫 How to reach me ...
 
